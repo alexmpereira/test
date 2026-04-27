@@ -1,0 +1,10 @@
+body {
+  font-family: sans-serif;
+  display: flex;
+  justify-content: center;
+  padding: 2rem;
+}
+
+h1 {
+  color: #1e293b;
+}
